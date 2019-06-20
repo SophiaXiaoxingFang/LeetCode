@@ -4,6 +4,7 @@ This repository contains algorithms for LeetCode problems.
 
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./algorithms/implementstrStr/implementstrStr.cpp)      | Easy       |
 | 27   | [Remove Element](<https://leetcode.com/problems/remove-element/>) | [C++](./algorithms/removeElement/removeElement.cpp)          | Easy       |
 | 26   | [Remove Duplicates from Sorted Array](<https://leetcode.com/problems/remove-duplicates-from-sorted-array/>) | [C++](./algorithms/removeDuplicates/removeDuplicates.cpp)    | Easy       |
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./algorithms/mergeTwoSortedLists/mergeTwoSortedLists.cpp) | Easy       |
