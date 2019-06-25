@@ -4,7 +4,8 @@ This repository contains algorithms for LeetCode problems.
 
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
-| 36   | [Search Insert Position](<https://leetcode.com/problems/search-insert-position/>) | [C++](./algorithms/searchInsertPosition/searchInsertPosition.cpp) | Easy       |
+| 38   | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./algorithms/countAndSay/countAndSay.cpp)              | Easy       |
+| 35   | [Search Insert Position](<https://leetcode.com/problems/search-insert-position/>) | [C++](./algorithms/searchInsertPosition/searchInsertPosition.cpp) | Easy       |
 | 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./algorithms/implementstrStr/implementstrStr.cpp)      | Easy       |
 | 27   | [Remove Element](<https://leetcode.com/problems/remove-element/>) | [C++](./algorithms/removeElement/removeElement.cpp)          | Easy       |
 | 26   | [Remove Duplicates from Sorted Array](<https://leetcode.com/problems/remove-duplicates-from-sorted-array/>) | [C++](./algorithms/removeDuplicates/removeDuplicates.cpp)    | Easy       |
