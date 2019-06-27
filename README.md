@@ -4,6 +4,7 @@ This repository contains algorithms for LeetCode problems.
 
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 42   | [Trapping Rain Water](<https://leetcode.com/problems/trapping-rain-water/>) | [C++](./algorithms/trappingRainWater/trappingRainWater.cpp)  | Hard       |
 | 41   | [First Missing Positive](<https://leetcode.com/problems/first-missing-positive/>) | [C++](./algorithms/firstMissingPositive/firstMissingPositive.cpp) | Hard       |
 | 38   | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./algorithms/countAndSay/countAndSay.cpp)              | Easy       |
 | 35   | [Search Insert Position](<https://leetcode.com/problems/search-insert-position/>) | [C++](./algorithms/searchInsertPosition/searchInsertPosition.cpp) | Easy       |
