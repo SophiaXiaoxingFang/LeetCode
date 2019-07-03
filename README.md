@@ -4,6 +4,7 @@ This repository contains algorithms for LeetCode problems.
 
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 55   | [Jump Game](https://leetcode.com/problems/jump-game/)        | [C++](./algorithms/jumpGame/jumpGame.cpp)                    | Medium     |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](./algorithms/maximumSubarray/maximumSubarray.cpp)      | Easy       |
 | 45   | [Jump Game II](<https://leetcode.com/problems/jump-game-ii/>) | [C++](./algorithms/jumpGameII/jumpGameII.cpp)                | Hard       |
 | 42   | [Trapping Rain Water](<https://leetcode.com/problems/trapping-rain-water/>) | [C++](./algorithms/trappingRainWater/trappingRainWater.cpp)  | Hard       |
