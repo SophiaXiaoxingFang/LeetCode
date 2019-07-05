@@ -4,6 +4,7 @@ This repository contains algorithms for LeetCode problems.
 
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./algorithms/lenLastWord/lenLastWord.cpp)              | Easy       |
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/)        | [C++](./algorithms/jumpGame/jumpGame.cpp)                    | Medium     |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](./algorithms/maximumSubarray/maximumSubarray.cpp)      | Easy       |
 | 45   | [Jump Game II](<https://leetcode.com/problems/jump-game-ii/>) | [C++](./algorithms/jumpGameII/jumpGameII.cpp)                | Hard       |
