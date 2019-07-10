@@ -4,8 +4,9 @@ This repository contains algorithms for LeetCode problems.
 
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
-| 80   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](/algorithms/removeDuplicatesII/removeDuplicatesII.cpp) | Medium     |
-| 66   | [Plus One](https://leetcode.com/problems/plus-one/)          | [C++](/algorithms/plusOne/plusOne.cpp)                       | Easy       |
+| 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C++](./algorithms/pascalsTriangle/pascalsTriangle.cpp)      | Easy       |
+| 80   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./algorithms/removeDuplicatesII/removeDuplicatesII.cpp) | Medium     |
+| 66   | [Plus One](https://leetcode.com/problems/plus-one/)          | [C++](./algorithms/plusOne/plusOne.cpp)                      | Easy       |
 | 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./algorithms/lenLastWord/lenLastWord.cpp)              | Easy       |
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/)        | [C++](./algorithms/jumpGame/jumpGame.cpp)                    | Medium     |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](./algorithms/maximumSubarray/maximumSubarray.cpp)      | Easy       |
