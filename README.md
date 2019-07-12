@@ -4,6 +4,7 @@ This repository contains algorithms for LeetCode problems.
 
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 119  | [Pascal's Triangle II](<https://leetcode.com/problems/pascals-triangle-ii/>) | [C++](./algorithms/pascalsTriangleII/pascalsTriangleII.cpp)  | Easy       |
 | 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C++](./algorithms/pascalsTriangle/pascalsTriangle.cpp)      | Easy       |
 | 80   | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./algorithms/removeDuplicatesII/removeDuplicatesII.cpp) | Medium     |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/)          | [C++](./algorithms/plusOne/plusOne.cpp)                      | Easy       |
