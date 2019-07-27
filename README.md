@@ -4,6 +4,7 @@ This repository contains algorithms for LeetCode problems.
 
 | #    | Title                                                        | Solution                                                     | Difficulty |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 122  | [Best Time to Buy and Sell Stock II](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/>) | [C++](./algorithms/maxProfitII/maxProfitII.cpp)              | Easy       |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./algorithms/maxProfit/maxProfit.cpp)                  | Easy       |
 | 119  | [Pascal's Triangle II](<https://leetcode.com/problems/pascals-triangle-ii/>) | [C++](./algorithms/pascalsTriangleII/pascalsTriangleII.cpp)  | Easy       |
 | 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C++](./algorithms/pascalsTriangle/pascalsTriangle.cpp)      | Easy       |
